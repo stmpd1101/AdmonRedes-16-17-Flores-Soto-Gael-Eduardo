@@ -7,4 +7,4 @@
 ## Índice 
 
 1. **osTicket (Investigación de Software de Administración de Reportes)**  
-   - Tarea1/FloresSoto-osTicket.pdf
+   - [Tarea 1 - osTicket](Tarea1/FloresSoto-osTicket.pdf)
